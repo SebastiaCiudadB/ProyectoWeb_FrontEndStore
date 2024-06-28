@@ -1,0 +1,12 @@
+/*El root se usa para definir algunas variables que usaremos durante
+todo el proyecto.*/
+:root{
+    --primario: #9C2780;
+    --primarioOscuro: #89119d;
+    --secundario: #FFCE00;
+    --secundarioOscuro: rgb(233,287,2);
+    --blanco: #FFF;
+    --negro: #000;
+
+    --fuentePrincipal: "Staatliches", sans-serif;
+}
